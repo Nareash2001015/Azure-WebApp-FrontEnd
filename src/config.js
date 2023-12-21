@@ -1,1 +1,1 @@
-export let BASE_URL = "http://localhost:4001"
+export let BASE_URL = "http://azure-webapp-backend.azurewebsites.net"
